@@ -1,4 +1,4 @@
-package edu.njit.nd397;
+package edu.njit.pm66;
 
 /**
  * Hello world!
