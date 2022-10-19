@@ -73,7 +73,7 @@
               <goal>java</goal>
             </goals>
             <configuration>
-              <mainClass>edu.njit.nd397.TextRekognizer</mainClass>
+              <mainClass>edu.njit.pm66.TextRekognizer</mainClass>
             </configuration>
           </execution>
         </executions>
